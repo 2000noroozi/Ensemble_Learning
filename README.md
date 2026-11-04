@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Ensemble Learning Framework for Cardiac Systolic Abnormality Segmentation in Catheterization X-ray Images
 
@@ -9,6 +9,8 @@
 
 *2024 IEEE Nuclear Science Symposium (NSS), Medical Imaging Conference (MIC) and<br>Room Temperature Semiconductor Detector Conference (RTSD)*
 
+<div align="center">
+  
 [![Paper](https://img.shields.io/badge/IEEE_Xplore-10657181-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10657181)
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FNSS%2FMIC%2FRTSD57108.2024.10657181-1f6feb?style=flat-square)](https://doi.org/10.1109/NSS/MIC/RTSD57108.2024.10657181)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/c7934597/cardiac-catheterization)
