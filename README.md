@@ -232,7 +232,14 @@ Masoud Noroozi, Hossein Arabi, and Habib Zaidi, "Ensemble learning framework for
 - **Data:** W.-M. Lin, [*Cardiac Catheterization X-Ray PNG 512×512*](https://www.kaggle.com/datasets/c7934597/cardiac-catheterization), Kaggle. Please follow the dataset's terms of use.
 - **Software:** [PyTorch](https://pytorch.org), [pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt) (Lovász loss), [TorchMetrics](https://github.com/Lightning-AI/torchmetrics), [MedPy](https://github.com/loli/medpy) (HD95) and [THOP](https://github.com/Lyken17/pytorch-OpCounter) (complexity).
 
-> [!IMPORTANT]
-> This is research code accompanying a conference paper. It is not a medical device and has not been validated for clinical use.
+## License
 
-**Contact:** questions and suggestions are welcome through [GitHub issues](../../issues) or by e-mail to Masoud Noroozi (2000noroozi@gmail.com).
+Code is released under the terms in [`LICENSE`](LICENSE). The dataset is subject to its Kaggle terms of use.
+
+## Contact
+
+For questions or bug reports, please open a [GitHub issue](../../issues).
+
+
+> [!CAUTION]
+> **Research use only.** This software is not a medical device and has not been validated for clinical decision-making.
